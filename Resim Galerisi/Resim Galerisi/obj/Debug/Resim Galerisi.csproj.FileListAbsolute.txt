@@ -1,0 +1,10 @@
+D:\NTP\Resim Galerisi\Resim Galerisi\bin\Debug\Resim Galerisi.exe.config
+D:\NTP\Resim Galerisi\Resim Galerisi\bin\Debug\Resim Galerisi.exe
+D:\NTP\Resim Galerisi\Resim Galerisi\bin\Debug\Resim Galerisi.pdb
+D:\NTP\Resim Galerisi\Resim Galerisi\obj\Debug\Resim Galerisi.csproj.AssemblyReference.cache
+D:\NTP\Resim Galerisi\Resim Galerisi\obj\Debug\Resim_Galerisi.Form1.resources
+D:\NTP\Resim Galerisi\Resim Galerisi\obj\Debug\Resim_Galerisi.Properties.Resources.resources
+D:\NTP\Resim Galerisi\Resim Galerisi\obj\Debug\Resim Galerisi.csproj.GenerateResource.cache
+D:\NTP\Resim Galerisi\Resim Galerisi\obj\Debug\Resim Galerisi.csproj.CoreCompileInputs.cache
+D:\NTP\Resim Galerisi\Resim Galerisi\obj\Debug\Resim Galerisi.exe
+D:\NTP\Resim Galerisi\Resim Galerisi\obj\Debug\Resim Galerisi.pdb
