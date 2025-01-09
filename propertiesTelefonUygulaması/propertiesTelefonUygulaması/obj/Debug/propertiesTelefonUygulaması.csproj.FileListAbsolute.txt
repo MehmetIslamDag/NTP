@@ -1,0 +1,7 @@
+C:\Users\Lab2-01\Desktop\mehmet\propertiesTelefonUygulaması\propertiesTelefonUygulaması\bin\Debug\propertiesTelefonUygulaması.exe.config
+C:\Users\Lab2-01\Desktop\mehmet\propertiesTelefonUygulaması\propertiesTelefonUygulaması\bin\Debug\propertiesTelefonUygulaması.exe
+C:\Users\Lab2-01\Desktop\mehmet\propertiesTelefonUygulaması\propertiesTelefonUygulaması\bin\Debug\propertiesTelefonUygulaması.pdb
+C:\Users\Lab2-01\Desktop\mehmet\propertiesTelefonUygulaması\propertiesTelefonUygulaması\obj\Debug\propertiesTelefonUygulaması.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Desktop\mehmet\propertiesTelefonUygulaması\propertiesTelefonUygulaması\obj\Debug\propertiesTelefonUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Desktop\mehmet\propertiesTelefonUygulaması\propertiesTelefonUygulaması\obj\Debug\propertiesTelefonUygulaması.exe
+C:\Users\Lab2-01\Desktop\mehmet\propertiesTelefonUygulaması\propertiesTelefonUygulaması\obj\Debug\propertiesTelefonUygulaması.pdb

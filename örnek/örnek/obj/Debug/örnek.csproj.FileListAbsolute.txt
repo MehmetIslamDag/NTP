@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Documents\mehmet\örnek\örnek\bin\Debug\örnek.exe.config
+C:\Users\Lab2-01\Documents\mehmet\örnek\örnek\bin\Debug\örnek.exe
+C:\Users\Lab2-01\Documents\mehmet\örnek\örnek\bin\Debug\örnek.pdb
+C:\Users\Lab2-01\Documents\mehmet\örnek\örnek\obj\Debug\örnek.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Documents\mehmet\örnek\örnek\obj\Debug\örnek.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\örnek\örnek\obj\Debug\örnek.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\örnek\örnek\obj\Debug\örnek.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\örnek\örnek\obj\Debug\örnek.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\örnek\örnek\obj\Debug\örnek.exe
+C:\Users\Lab2-01\Documents\mehmet\örnek\örnek\obj\Debug\örnek.pdb

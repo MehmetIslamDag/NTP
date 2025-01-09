@@ -1,0 +1,14 @@
+C:\Users\Lab2-01\Desktop\mehmet\PropertiesUygulaması\PropertiesUygulaması\obj\Debug\PropertiesUygulaması.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Desktop\mehmet\PropertiesUygulaması\PropertiesUygulaması\obj\Debug\PropertiesUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Desktop\mehmet\PropertiesUygulaması\PropertiesUygulaması\bin\Debug\PropertiesUygulaması.exe.config
+C:\Users\Lab2-01\Desktop\mehmet\PropertiesUygulaması\PropertiesUygulaması\bin\Debug\PropertiesUygulaması.exe
+C:\Users\Lab2-01\Desktop\mehmet\PropertiesUygulaması\PropertiesUygulaması\bin\Debug\PropertiesUygulaması.pdb
+C:\Users\Lab2-01\Desktop\mehmet\PropertiesUygulaması\PropertiesUygulaması\obj\Debug\PropertiesUygulaması.exe
+C:\Users\Lab2-01\Desktop\mehmet\PropertiesUygulaması\PropertiesUygulaması\obj\Debug\PropertiesUygulaması.pdb
+D:\NTP\PropertiesUygulaması\PropertiesUygulaması\bin\Debug\PropertiesUygulaması.exe.config
+D:\NTP\PropertiesUygulaması\PropertiesUygulaması\bin\Debug\PropertiesUygulaması.exe
+D:\NTP\PropertiesUygulaması\PropertiesUygulaması\bin\Debug\PropertiesUygulaması.pdb
+D:\NTP\PropertiesUygulaması\PropertiesUygulaması\obj\Debug\PropertiesUygulaması.csproj.AssemblyReference.cache
+D:\NTP\PropertiesUygulaması\PropertiesUygulaması\obj\Debug\PropertiesUygulaması.csproj.CoreCompileInputs.cache
+D:\NTP\PropertiesUygulaması\PropertiesUygulaması\obj\Debug\PropertiesUygulaması.exe
+D:\NTP\PropertiesUygulaması\PropertiesUygulaması\obj\Debug\PropertiesUygulaması.pdb
