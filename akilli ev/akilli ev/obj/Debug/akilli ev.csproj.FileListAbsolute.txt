@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\source\repos\akilli ev\akilli ev\obj\Debug\akilli ev.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\source\repos\akilli ev\akilli ev\obj\Debug\akilli_ev.Form1.resources
+C:\Users\Lab2-01\source\repos\akilli ev\akilli ev\obj\Debug\akilli_ev.Properties.Resources.resources
+C:\Users\Lab2-01\source\repos\akilli ev\akilli ev\obj\Debug\akilli ev.csproj.GenerateResource.cache
+C:\Users\Lab2-01\source\repos\akilli ev\akilli ev\obj\Debug\akilli ev.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\source\repos\akilli ev\akilli ev\bin\Debug\akilli ev.exe.config
+C:\Users\Lab2-01\source\repos\akilli ev\akilli ev\bin\Debug\akilli ev.exe
+C:\Users\Lab2-01\source\repos\akilli ev\akilli ev\bin\Debug\akilli ev.pdb
+C:\Users\Lab2-01\source\repos\akilli ev\akilli ev\obj\Debug\akilli ev.exe
+C:\Users\Lab2-01\source\repos\akilli ev\akilli ev\obj\Debug\akilli ev.pdb
