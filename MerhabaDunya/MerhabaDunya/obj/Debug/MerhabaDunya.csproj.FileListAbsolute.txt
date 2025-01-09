@@ -1,0 +1,10 @@
+C:\NTP\MerhabaDunya\MerhabaDunya\obj\Debug\MerhabaDunya.csproj.AssemblyReference.cache
+C:\NTP\MerhabaDunya\MerhabaDunya\obj\Debug\MerhabaDunya.Form1.resources
+C:\NTP\MerhabaDunya\MerhabaDunya\obj\Debug\MerhabaDunya.Properties.Resources.resources
+C:\NTP\MerhabaDunya\MerhabaDunya\obj\Debug\MerhabaDunya.csproj.GenerateResource.cache
+C:\NTP\MerhabaDunya\MerhabaDunya\obj\Debug\MerhabaDunya.csproj.CoreCompileInputs.cache
+C:\NTP\MerhabaDunya\MerhabaDunya\bin\Debug\MerhabaDunya.exe.config
+C:\NTP\MerhabaDunya\MerhabaDunya\bin\Debug\MerhabaDunya.exe
+C:\NTP\MerhabaDunya\MerhabaDunya\bin\Debug\MerhabaDunya.pdb
+C:\NTP\MerhabaDunya\MerhabaDunya\obj\Debug\MerhabaDunya.exe
+C:\NTP\MerhabaDunya\MerhabaDunya\obj\Debug\MerhabaDunya.pdb
