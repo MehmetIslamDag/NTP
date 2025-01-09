@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Documents\mehmet\kullanici girişi\kullanici girişi\bin\Debug\kullanici girişi.exe.config
+C:\Users\Lab2-01\Documents\mehmet\kullanici girişi\kullanici girişi\bin\Debug\kullanici girişi.exe
+C:\Users\Lab2-01\Documents\mehmet\kullanici girişi\kullanici girişi\bin\Debug\kullanici girişi.pdb
+C:\Users\Lab2-01\Documents\mehmet\kullanici girişi\kullanici girişi\obj\Debug\kullanici girişi.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Documents\mehmet\kullanici girişi\kullanici girişi\obj\Debug\kullanici_girişi.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\kullanici girişi\kullanici girişi\obj\Debug\kullanici_girişi.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\kullanici girişi\kullanici girişi\obj\Debug\kullanici girişi.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\kullanici girişi\kullanici girişi\obj\Debug\kullanici girişi.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\kullanici girişi\kullanici girişi\obj\Debug\kullanici girişi.exe
+C:\Users\Lab2-01\Documents\mehmet\kullanici girişi\kullanici girişi\obj\Debug\kullanici girişi.pdb

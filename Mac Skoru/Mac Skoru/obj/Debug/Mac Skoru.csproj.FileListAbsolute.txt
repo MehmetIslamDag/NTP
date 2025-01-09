@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Documents\mehmet\Mac Skoru\Mac Skoru\bin\Debug\Mac Skoru.exe.config
+C:\Users\Lab2-01\Documents\mehmet\Mac Skoru\Mac Skoru\bin\Debug\Mac Skoru.exe
+C:\Users\Lab2-01\Documents\mehmet\Mac Skoru\Mac Skoru\bin\Debug\Mac Skoru.pdb
+C:\Users\Lab2-01\Documents\mehmet\Mac Skoru\Mac Skoru\obj\Debug\Mac Skoru.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Documents\mehmet\Mac Skoru\Mac Skoru\obj\Debug\Mac_Skoru.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\Mac Skoru\Mac Skoru\obj\Debug\Mac_Skoru.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\Mac Skoru\Mac Skoru\obj\Debug\Mac Skoru.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\Mac Skoru\Mac Skoru\obj\Debug\Mac Skoru.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\Mac Skoru\Mac Skoru\obj\Debug\Mac Skoru.exe
+C:\Users\Lab2-01\Documents\mehmet\Mac Skoru\Mac Skoru\obj\Debug\Mac Skoru.pdb

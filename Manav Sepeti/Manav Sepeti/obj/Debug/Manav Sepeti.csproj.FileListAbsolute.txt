@@ -1,0 +1,10 @@
+C:\NTP\Manav Sepeti\Manav Sepeti\bin\Debug\Manav Sepeti.exe.config
+C:\NTP\Manav Sepeti\Manav Sepeti\bin\Debug\Manav Sepeti.exe
+C:\NTP\Manav Sepeti\Manav Sepeti\bin\Debug\Manav Sepeti.pdb
+C:\NTP\Manav Sepeti\Manav Sepeti\obj\Debug\Manav Sepeti.csproj.AssemblyReference.cache
+C:\NTP\Manav Sepeti\Manav Sepeti\obj\Debug\Manav_Sepeti.Form1.resources
+C:\NTP\Manav Sepeti\Manav Sepeti\obj\Debug\Manav_Sepeti.Properties.Resources.resources
+C:\NTP\Manav Sepeti\Manav Sepeti\obj\Debug\Manav Sepeti.csproj.GenerateResource.cache
+C:\NTP\Manav Sepeti\Manav Sepeti\obj\Debug\Manav Sepeti.csproj.CoreCompileInputs.cache
+C:\NTP\Manav Sepeti\Manav Sepeti\obj\Debug\Manav Sepeti.exe
+C:\NTP\Manav Sepeti\Manav Sepeti\obj\Debug\Manav Sepeti.pdb
