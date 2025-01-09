@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Documents\mehmet\whileçiftsayi\whileçiftsayi\bin\Debug\whileçiftsayi.exe.config
+C:\Users\Lab2-01\Documents\mehmet\whileçiftsayi\whileçiftsayi\bin\Debug\whileçiftsayi.exe
+C:\Users\Lab2-01\Documents\mehmet\whileçiftsayi\whileçiftsayi\bin\Debug\whileçiftsayi.pdb
+C:\Users\Lab2-01\Documents\mehmet\whileçiftsayi\whileçiftsayi\obj\Debug\whileçiftsayi.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Documents\mehmet\whileçiftsayi\whileçiftsayi\obj\Debug\whileçiftsayi.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\whileçiftsayi\whileçiftsayi\obj\Debug\whileçiftsayi.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\whileçiftsayi\whileçiftsayi\obj\Debug\whileçiftsayi.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\whileçiftsayi\whileçiftsayi\obj\Debug\whileçiftsayi.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\whileçiftsayi\whileçiftsayi\obj\Debug\whileçiftsayi.exe
+C:\Users\Lab2-01\Documents\mehmet\whileçiftsayi\whileçiftsayi\obj\Debug\whileçiftsayi.pdb
