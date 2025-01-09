@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Documents\mehmet\okul kademesi kombo box\okul kademesi kombo box\bin\Debug\okul kademesi kombo box.exe.config
+C:\Users\Lab2-01\Documents\mehmet\okul kademesi kombo box\okul kademesi kombo box\bin\Debug\okul kademesi kombo box.exe
+C:\Users\Lab2-01\Documents\mehmet\okul kademesi kombo box\okul kademesi kombo box\bin\Debug\okul kademesi kombo box.pdb
+C:\Users\Lab2-01\Documents\mehmet\okul kademesi kombo box\okul kademesi kombo box\obj\Debug\okul kademesi kombo box.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Documents\mehmet\okul kademesi kombo box\okul kademesi kombo box\obj\Debug\okul_kademesi_kombo_box.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\okul kademesi kombo box\okul kademesi kombo box\obj\Debug\okul_kademesi_kombo_box.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\okul kademesi kombo box\okul kademesi kombo box\obj\Debug\okul kademesi kombo box.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\okul kademesi kombo box\okul kademesi kombo box\obj\Debug\okul kademesi kombo box.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\okul kademesi kombo box\okul kademesi kombo box\obj\Debug\okul kademesi kombo box.exe
+C:\Users\Lab2-01\Documents\mehmet\okul kademesi kombo box\okul kademesi kombo box\obj\Debug\okul kademesi kombo box.pdb
