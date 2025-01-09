@@ -1,0 +1,9 @@
+C:\Users\Lab2-01\Documents\mehmet\at yürütme projesi\at yürütme projesi\bin\Debug\at yürütme projesi.exe.config
+C:\Users\Lab2-01\Documents\mehmet\at yürütme projesi\at yürütme projesi\bin\Debug\at yürütme projesi.exe
+C:\Users\Lab2-01\Documents\mehmet\at yürütme projesi\at yürütme projesi\bin\Debug\at yürütme projesi.pdb
+C:\Users\Lab2-01\Documents\mehmet\at yürütme projesi\at yürütme projesi\obj\Debug\at_yürütme_projesi.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\at yürütme projesi\at yürütme projesi\obj\Debug\at_yürütme_projesi.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\at yürütme projesi\at yürütme projesi\obj\Debug\at yürütme projesi.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\at yürütme projesi\at yürütme projesi\obj\Debug\at yürütme projesi.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\at yürütme projesi\at yürütme projesi\obj\Debug\at yürütme projesi.exe
+C:\Users\Lab2-01\Documents\mehmet\at yürütme projesi\at yürütme projesi\obj\Debug\at yürütme projesi.pdb

@@ -1,0 +1,9 @@
+C:\Users\Lab2-01\Documents\mehmet\bilgisayar donanım uygulaması\bilgisayar donanım uygulaması\bin\Debug\bilgisayar donanım uygulaması.exe.config
+C:\Users\Lab2-01\Documents\mehmet\bilgisayar donanım uygulaması\bilgisayar donanım uygulaması\bin\Debug\bilgisayar donanım uygulaması.exe
+C:\Users\Lab2-01\Documents\mehmet\bilgisayar donanım uygulaması\bilgisayar donanım uygulaması\bin\Debug\bilgisayar donanım uygulaması.pdb
+C:\Users\Lab2-01\Documents\mehmet\bilgisayar donanım uygulaması\bilgisayar donanım uygulaması\obj\Debug\bilgisayar_donanım_uygulaması.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\bilgisayar donanım uygulaması\bilgisayar donanım uygulaması\obj\Debug\bilgisayar_donanım_uygulaması.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\bilgisayar donanım uygulaması\bilgisayar donanım uygulaması\obj\Debug\bilgisayar donanım uygulaması.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\bilgisayar donanım uygulaması\bilgisayar donanım uygulaması\obj\Debug\bilgisayar donanım uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\bilgisayar donanım uygulaması\bilgisayar donanım uygulaması\obj\Debug\bilgisayar donanım uygulaması.exe
+C:\Users\Lab2-01\Documents\mehmet\bilgisayar donanım uygulaması\bilgisayar donanım uygulaması\obj\Debug\bilgisayar donanım uygulaması.pdb

@@ -1,0 +1,10 @@
+D:\NTP\Buton İle Renk Degistirme\Buton İle Renk Degistirme\bin\Debug\Buton İle Renk Degistirme.exe.config
+D:\NTP\Buton İle Renk Degistirme\Buton İle Renk Degistirme\bin\Debug\Buton İle Renk Degistirme.exe
+D:\NTP\Buton İle Renk Degistirme\Buton İle Renk Degistirme\bin\Debug\Buton İle Renk Degistirme.pdb
+D:\NTP\Buton İle Renk Degistirme\Buton İle Renk Degistirme\obj\Debug\Buton İle Renk Degistirme.csproj.AssemblyReference.cache
+D:\NTP\Buton İle Renk Degistirme\Buton İle Renk Degistirme\obj\Debug\Buton_İle_Renk_Degistirme.Form1.resources
+D:\NTP\Buton İle Renk Degistirme\Buton İle Renk Degistirme\obj\Debug\Buton_İle_Renk_Degistirme.Properties.Resources.resources
+D:\NTP\Buton İle Renk Degistirme\Buton İle Renk Degistirme\obj\Debug\Buton İle Renk Degistirme.csproj.GenerateResource.cache
+D:\NTP\Buton İle Renk Degistirme\Buton İle Renk Degistirme\obj\Debug\Buton İle Renk Degistirme.csproj.CoreCompileInputs.cache
+D:\NTP\Buton İle Renk Degistirme\Buton İle Renk Degistirme\obj\Debug\Buton İle Renk Degistirme.exe
+D:\NTP\Buton İle Renk Degistirme\Buton İle Renk Degistirme\obj\Debug\Buton İle Renk Degistirme.pdb

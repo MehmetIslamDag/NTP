@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "belge uygulaması", "belge uygulaması\belge uygulaması.csproj", "{2EB2BE29-18B2-4A77-86DD-D3D4751195EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EB2BE29-18B2-4A77-86DD-D3D4751195EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB2BE29-18B2-4A77-86DD-D3D4751195EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB2BE29-18B2-4A77-86DD-D3D4751195EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB2BE29-18B2-4A77-86DD-D3D4751195EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19C91F9A-D43E-4284-80B0-39F7B07EBFFD}
+	EndGlobalSection
+EndGlobal

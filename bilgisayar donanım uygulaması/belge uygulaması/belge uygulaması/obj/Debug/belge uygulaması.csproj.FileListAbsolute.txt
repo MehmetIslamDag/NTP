@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Documents\mehmet\belge uygulaması\belge uygulaması\bin\Debug\belge uygulaması.exe.config
+C:\Users\Lab2-01\Documents\mehmet\belge uygulaması\belge uygulaması\bin\Debug\belge uygulaması.exe
+C:\Users\Lab2-01\Documents\mehmet\belge uygulaması\belge uygulaması\bin\Debug\belge uygulaması.pdb
+C:\Users\Lab2-01\Documents\mehmet\belge uygulaması\belge uygulaması\obj\Debug\belge_uygulaması.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\belge uygulaması\belge uygulaması\obj\Debug\belge_uygulaması.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\belge uygulaması\belge uygulaması\obj\Debug\belge uygulaması.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\belge uygulaması\belge uygulaması\obj\Debug\belge uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\belge uygulaması\belge uygulaması\obj\Debug\belge uygulaması.exe
+C:\Users\Lab2-01\Documents\mehmet\belge uygulaması\belge uygulaması\obj\Debug\belge uygulaması.pdb
+C:\Users\Lab2-01\Documents\mehmet\belge uygulaması\belge uygulaması\obj\Debug\belge uygulaması.csproj.AssemblyReference.cache
