@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Documents\mehmet\mevsimler swich case1\mevsimler swich case1\bin\Debug\mevsimler swich case1.exe.config
+C:\Users\Lab2-01\Documents\mehmet\mevsimler swich case1\mevsimler swich case1\bin\Debug\mevsimler swich case1.exe
+C:\Users\Lab2-01\Documents\mehmet\mevsimler swich case1\mevsimler swich case1\bin\Debug\mevsimler swich case1.pdb
+C:\Users\Lab2-01\Documents\mehmet\mevsimler swich case1\mevsimler swich case1\obj\Debug\mevsimler swich case1.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Documents\mehmet\mevsimler swich case1\mevsimler swich case1\obj\Debug\mevsimler_swich_case1.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\mevsimler swich case1\mevsimler swich case1\obj\Debug\mevsimler_swich_case1.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\mevsimler swich case1\mevsimler swich case1\obj\Debug\mevsimler swich case1.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\mevsimler swich case1\mevsimler swich case1\obj\Debug\mevsimler swich case1.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\mevsimler swich case1\mevsimler swich case1\obj\Debug\mevsimler swich case1.exe
+C:\Users\Lab2-01\Documents\mehmet\mevsimler swich case1\mevsimler swich case1\obj\Debug\mevsimler swich case1.pdb
