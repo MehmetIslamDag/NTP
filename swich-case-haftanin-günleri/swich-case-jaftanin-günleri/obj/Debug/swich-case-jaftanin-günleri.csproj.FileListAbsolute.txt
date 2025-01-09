@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Documents\mehmet\swich-case-jaftanin-günleri\swich-case-jaftanin-günleri\bin\Debug\swich-case-jaftanin-günleri.exe.config
+C:\Users\Lab2-01\Documents\mehmet\swich-case-jaftanin-günleri\swich-case-jaftanin-günleri\bin\Debug\swich-case-jaftanin-günleri.exe
+C:\Users\Lab2-01\Documents\mehmet\swich-case-jaftanin-günleri\swich-case-jaftanin-günleri\bin\Debug\swich-case-jaftanin-günleri.pdb
+C:\Users\Lab2-01\Documents\mehmet\swich-case-jaftanin-günleri\swich-case-jaftanin-günleri\obj\Debug\swich-case-jaftanin-günleri.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Documents\mehmet\swich-case-jaftanin-günleri\swich-case-jaftanin-günleri\obj\Debug\swich_case_jaftanin_günleri.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\swich-case-jaftanin-günleri\swich-case-jaftanin-günleri\obj\Debug\swich_case_jaftanin_günleri.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\swich-case-jaftanin-günleri\swich-case-jaftanin-günleri\obj\Debug\swich-case-jaftanin-günleri.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\swich-case-jaftanin-günleri\swich-case-jaftanin-günleri\obj\Debug\swich-case-jaftanin-günleri.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\swich-case-jaftanin-günleri\swich-case-jaftanin-günleri\obj\Debug\swich-case-jaftanin-günleri.exe
+C:\Users\Lab2-01\Documents\mehmet\swich-case-jaftanin-günleri\swich-case-jaftanin-günleri\obj\Debug\swich-case-jaftanin-günleri.pdb

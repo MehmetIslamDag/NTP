@@ -1,0 +1,11 @@
+C:\Users\Lab2-01\Documents\mehmet\sipariş\sipariş\bin\Debug\sipariş.exe.config
+C:\Users\Lab2-01\Documents\mehmet\sipariş\sipariş\bin\Debug\sipariş.exe
+C:\Users\Lab2-01\Documents\mehmet\sipariş\sipariş\bin\Debug\sipariş.pdb
+C:\Users\Lab2-01\Documents\mehmet\sipariş\sipariş\obj\Debug\sipariş.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Documents\mehmet\sipariş\sipariş\obj\Debug\sipariş.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\sipariş\sipariş\obj\Debug\sipariş.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\sipariş\sipariş\obj\Debug\sipariş.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\sipariş\sipariş\obj\Debug\sipariş.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\sipariş\sipariş\obj\Debug\sipariş.exe
+C:\Users\Lab2-01\Documents\mehmet\sipariş\sipariş\obj\Debug\sipariş.pdb
+C:\Users\Lab2-01\Documents\mehmet\sipariş\sipariş\obj\Debug\sipariş.Form2.resources
