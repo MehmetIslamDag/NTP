@@ -1,0 +1,17 @@
+C:\Users\Lab2-01\Documents\mehmet\DosyaBulunamadıHatası\DosyaBulunamadıHatası\bin\Debug\DosyaBulunamadıHatası.exe.config
+C:\Users\Lab2-01\Documents\mehmet\DosyaBulunamadıHatası\DosyaBulunamadıHatası\bin\Debug\DosyaBulunamadıHatası.exe
+C:\Users\Lab2-01\Documents\mehmet\DosyaBulunamadıHatası\DosyaBulunamadıHatası\bin\Debug\DosyaBulunamadıHatası.pdb
+C:\Users\Lab2-01\Documents\mehmet\DosyaBulunamadıHatası\DosyaBulunamadıHatası\obj\Debug\DosyaBulunamadıHatası.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\DosyaBulunamadıHatası\DosyaBulunamadıHatası\obj\Debug\DosyaBulunamadıHatası.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\DosyaBulunamadıHatası\DosyaBulunamadıHatası\obj\Debug\DosyaBulunamadıHatası.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\DosyaBulunamadıHatası\DosyaBulunamadıHatası\obj\Debug\DosyaBulunamadıHatası.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\DosyaBulunamadıHatası\DosyaBulunamadıHatası\obj\Debug\DosyaBulunamadıHatası.exe
+C:\Users\Lab2-01\Documents\mehmet\DosyaBulunamadıHatası\DosyaBulunamadıHatası\obj\Debug\DosyaBulunamadıHatası.pdb
+C:\Users\Lab2-01\Documents\mehmet\DosyaBulunamadıHatası\DosyaBulunamadıHatası\obj\Debug\DosyaBulunamadıHatası.csproj.AssemblyReference.cache
+D:\NTP\DosyaBulunamadıHatası\DosyaBulunamadıHatası\obj\Debug\DosyaBulunamadıHatası.csprojAssemblyReference.cache
+D:\NTP\DosyaBulunamadıHatası\DosyaBulunamadıHatası\obj\Debug\DosyaBulunamadıHatası.Form1.resources
+D:\NTP\DosyaBulunamadıHatası\DosyaBulunamadıHatası\obj\Debug\DosyaBulunamadıHatası.Properties.Resources.resources
+D:\NTP\DosyaBulunamadıHatası\DosyaBulunamadıHatası\obj\Debug\DosyaBulunamadıHatası.csproj.GenerateResource.cache
+D:\NTP\DosyaBulunamadıHatası\DosyaBulunamadıHatası\obj\Debug\DosyaBulunamadıHatası.csproj.CoreCompileInputs.cache
+D:\NTP\DosyaBulunamadıHatası\DosyaBulunamadıHatası\obj\Debug\DosyaBulunamadıHatası.exe
+D:\NTP\DosyaBulunamadıHatası\DosyaBulunamadıHatası\obj\Debug\DosyaBulunamadıHatası.pdb

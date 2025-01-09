@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Documents\mehmet\doWhileProje\doWhileProje\bin\Debug\doWhileProje.exe.config
+C:\Users\Lab2-01\Documents\mehmet\doWhileProje\doWhileProje\bin\Debug\doWhileProje.exe
+C:\Users\Lab2-01\Documents\mehmet\doWhileProje\doWhileProje\bin\Debug\doWhileProje.pdb
+C:\Users\Lab2-01\Documents\mehmet\doWhileProje\doWhileProje\obj\Debug\doWhileProje.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Documents\mehmet\doWhileProje\doWhileProje\obj\Debug\doWhileProje.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\doWhileProje\doWhileProje\obj\Debug\doWhileProje.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\doWhileProje\doWhileProje\obj\Debug\doWhileProje.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\doWhileProje\doWhileProje\obj\Debug\doWhileProje.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\doWhileProje\doWhileProje\obj\Debug\doWhileProje.exe
+C:\Users\Lab2-01\Documents\mehmet\doWhileProje\doWhileProje\obj\Debug\doWhileProje.pdb
