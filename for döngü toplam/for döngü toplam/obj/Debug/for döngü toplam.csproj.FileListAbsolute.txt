@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Documents\mehmet\for döngü toplam\for döngü toplam\bin\Debug\for döngü toplam.exe.config
+C:\Users\Lab2-01\Documents\mehmet\for döngü toplam\for döngü toplam\bin\Debug\for döngü toplam.exe
+C:\Users\Lab2-01\Documents\mehmet\for döngü toplam\for döngü toplam\bin\Debug\for döngü toplam.pdb
+C:\Users\Lab2-01\Documents\mehmet\for döngü toplam\for döngü toplam\obj\Debug\for döngü toplam.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Documents\mehmet\for döngü toplam\for döngü toplam\obj\Debug\for_döngü_toplam.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\for döngü toplam\for döngü toplam\obj\Debug\for_döngü_toplam.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\for döngü toplam\for döngü toplam\obj\Debug\for döngü toplam.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\for döngü toplam\for döngü toplam\obj\Debug\for döngü toplam.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\for döngü toplam\for döngü toplam\obj\Debug\for döngü toplam.exe
+C:\Users\Lab2-01\Documents\mehmet\for döngü toplam\for döngü toplam\obj\Debug\for döngü toplam.pdb

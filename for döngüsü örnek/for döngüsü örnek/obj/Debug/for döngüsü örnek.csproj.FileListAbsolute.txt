@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Documents\mehmet\for döngüsü örnek\for döngüsü örnek\bin\Debug\for döngüsü örnek.exe.config
+C:\Users\Lab2-01\Documents\mehmet\for döngüsü örnek\for döngüsü örnek\bin\Debug\for döngüsü örnek.exe
+C:\Users\Lab2-01\Documents\mehmet\for döngüsü örnek\for döngüsü örnek\bin\Debug\for döngüsü örnek.pdb
+C:\Users\Lab2-01\Documents\mehmet\for döngüsü örnek\for döngüsü örnek\obj\Debug\for döngüsü örnek.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Documents\mehmet\for döngüsü örnek\for döngüsü örnek\obj\Debug\for_döngüsü_örnek.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\for döngüsü örnek\for döngüsü örnek\obj\Debug\for_döngüsü_örnek.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\for döngüsü örnek\for döngüsü örnek\obj\Debug\for döngüsü örnek.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\for döngüsü örnek\for döngüsü örnek\obj\Debug\for döngüsü örnek.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\for döngüsü örnek\for döngüsü örnek\obj\Debug\for döngüsü örnek.exe
+C:\Users\Lab2-01\Documents\mehmet\for döngüsü örnek\for döngüsü örnek\obj\Debug\for döngüsü örnek.pdb
