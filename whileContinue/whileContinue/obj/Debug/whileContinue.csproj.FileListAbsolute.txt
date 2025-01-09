@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Documents\mehmet\whileContinue\whileContinue\bin\Debug\whileContinue.exe.config
+C:\Users\Lab2-01\Documents\mehmet\whileContinue\whileContinue\bin\Debug\whileContinue.exe
+C:\Users\Lab2-01\Documents\mehmet\whileContinue\whileContinue\bin\Debug\whileContinue.pdb
+C:\Users\Lab2-01\Documents\mehmet\whileContinue\whileContinue\obj\Debug\whileContinue.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Documents\mehmet\whileContinue\whileContinue\obj\Debug\whileContinue.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\whileContinue\whileContinue\obj\Debug\whileContinue.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\whileContinue\whileContinue\obj\Debug\whileContinue.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\whileContinue\whileContinue\obj\Debug\whileContinue.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\whileContinue\whileContinue\obj\Debug\whileContinue.exe
+C:\Users\Lab2-01\Documents\mehmet\whileContinue\whileContinue\obj\Debug\whileContinue.pdb

@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Documents\mehmet\vücut kütle endeks hesapla\vücut kütle endeks hesapla\bin\Debug\vücut kütle endeks hesapla.exe.config
+C:\Users\Lab2-01\Documents\mehmet\vücut kütle endeks hesapla\vücut kütle endeks hesapla\bin\Debug\vücut kütle endeks hesapla.exe
+C:\Users\Lab2-01\Documents\mehmet\vücut kütle endeks hesapla\vücut kütle endeks hesapla\bin\Debug\vücut kütle endeks hesapla.pdb
+C:\Users\Lab2-01\Documents\mehmet\vücut kütle endeks hesapla\vücut kütle endeks hesapla\obj\Debug\vücut kütle endeks hesapla.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Documents\mehmet\vücut kütle endeks hesapla\vücut kütle endeks hesapla\obj\Debug\vücut_kütle_endeks_hesapla.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\vücut kütle endeks hesapla\vücut kütle endeks hesapla\obj\Debug\vücut_kütle_endeks_hesapla.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\vücut kütle endeks hesapla\vücut kütle endeks hesapla\obj\Debug\vücut kütle endeks hesapla.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\vücut kütle endeks hesapla\vücut kütle endeks hesapla\obj\Debug\vücut kütle endeks hesapla.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\vücut kütle endeks hesapla\vücut kütle endeks hesapla\obj\Debug\vücut kütle endeks hesapla.exe
+C:\Users\Lab2-01\Documents\mehmet\vücut kütle endeks hesapla\vücut kütle endeks hesapla\obj\Debug\vücut kütle endeks hesapla.pdb

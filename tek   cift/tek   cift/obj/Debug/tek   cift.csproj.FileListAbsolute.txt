@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Documents\mehmet\tek   cift\tek   cift\bin\Debug\tek   cift.exe.config
+C:\Users\Lab2-01\Documents\mehmet\tek   cift\tek   cift\bin\Debug\tek   cift.exe
+C:\Users\Lab2-01\Documents\mehmet\tek   cift\tek   cift\bin\Debug\tek   cift.pdb
+C:\Users\Lab2-01\Documents\mehmet\tek   cift\tek   cift\obj\Debug\tek   cift.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Documents\mehmet\tek   cift\tek   cift\obj\Debug\tek___cift.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\tek   cift\tek   cift\obj\Debug\tek___cift.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\tek   cift\tek   cift\obj\Debug\tek   cift.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\tek   cift\tek   cift\obj\Debug\tek   cift.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\tek   cift\tek   cift\obj\Debug\tek   cift.exe
+C:\Users\Lab2-01\Documents\mehmet\tek   cift\tek   cift\obj\Debug\tek   cift.pdb

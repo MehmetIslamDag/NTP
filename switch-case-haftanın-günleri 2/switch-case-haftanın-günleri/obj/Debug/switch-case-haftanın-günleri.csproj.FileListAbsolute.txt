@@ -1,0 +1,9 @@
+C:\Users\Lab2-01\Documents\mehmet\switch-case-haftanın-günleri\switch-case-haftanın-günleri\bin\Debug\switch-case-haftanın-günleri.exe.config
+C:\Users\Lab2-01\Documents\mehmet\switch-case-haftanın-günleri\switch-case-haftanın-günleri\bin\Debug\switch-case-haftanın-günleri.exe
+C:\Users\Lab2-01\Documents\mehmet\switch-case-haftanın-günleri\switch-case-haftanın-günleri\bin\Debug\switch-case-haftanın-günleri.pdb
+C:\Users\Lab2-01\Documents\mehmet\switch-case-haftanın-günleri\switch-case-haftanın-günleri\obj\Debug\switch_case_haftanın_günleri.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\switch-case-haftanın-günleri\switch-case-haftanın-günleri\obj\Debug\switch_case_haftanın_günleri.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\switch-case-haftanın-günleri\switch-case-haftanın-günleri\obj\Debug\switch-case-haftanın-günleri.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\switch-case-haftanın-günleri\switch-case-haftanın-günleri\obj\Debug\switch-case-haftanın-günleri.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\switch-case-haftanın-günleri\switch-case-haftanın-günleri\obj\Debug\switch-case-haftanın-günleri.exe
+C:\Users\Lab2-01\Documents\mehmet\switch-case-haftanın-günleri\switch-case-haftanın-günleri\obj\Debug\switch-case-haftanın-günleri.pdb
