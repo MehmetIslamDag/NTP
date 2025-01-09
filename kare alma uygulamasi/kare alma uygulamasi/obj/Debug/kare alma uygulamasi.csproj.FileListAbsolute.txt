@@ -1,0 +1,18 @@
+C:\Users\PC\Downloads\mehmete islam\kare alma uygulamasi\kare alma uygulamasi\bin\Debug\kare alma uygulamasi.exe.config
+C:\Users\PC\Downloads\mehmete islam\kare alma uygulamasi\kare alma uygulamasi\obj\Debug\kare alma uygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\mehmete islam\kare alma uygulamasi\kare alma uygulamasi\obj\Debug\kare_alma_uygulamasi.Form1.resources
+C:\Users\PC\Downloads\mehmete islam\kare alma uygulamasi\kare alma uygulamasi\obj\Debug\kare_alma_uygulamasi.Properties.Resources.resources
+C:\Users\PC\Downloads\mehmete islam\kare alma uygulamasi\kare alma uygulamasi\obj\Debug\kare alma uygulamasi.csproj.GenerateResource.Cache
+C:\Users\PC\Downloads\mehmete islam\kare alma uygulamasi\kare alma uygulamasi\bin\Debug\kare alma uygulamasi.exe
+C:\Users\PC\Downloads\mehmete islam\kare alma uygulamasi\kare alma uygulamasi\bin\Debug\kare alma uygulamasi.pdb
+C:\Users\PC\Downloads\mehmete islam\kare alma uygulamasi\kare alma uygulamasi\obj\Debug\kare alma uygulamasi.exe
+C:\Users\PC\Downloads\mehmete islam\kare alma uygulamasi\kare alma uygulamasi\obj\Debug\kare alma uygulamasi.pdb
+F:\NTP\kare alma uygulamasi\kare alma uygulamasi\bin\Debug\kare alma uygulamasi.exe.config
+F:\NTP\kare alma uygulamasi\kare alma uygulamasi\obj\Debug\kare alma uygulamasi.exe
+F:\NTP\kare alma uygulamasi\kare alma uygulamasi\obj\Debug\kare alma uygulamasi.pdb
+F:\NTP\kare alma uygulamasi\kare alma uygulamasi\bin\Debug\kare alma uygulamasi.exe
+F:\NTP\kare alma uygulamasi\kare alma uygulamasi\bin\Debug\kare alma uygulamasi.pdb
+F:\NTP\kare alma uygulamasi\kare alma uygulamasi\obj\Debug\kare alma uygulamasi.csprojResolveAssemblyReference.cache
+F:\NTP\kare alma uygulamasi\kare alma uygulamasi\obj\Debug\kare_alma_uygulamasi.Form1.resources
+F:\NTP\kare alma uygulamasi\kare alma uygulamasi\obj\Debug\kare_alma_uygulamasi.Properties.Resources.resources
+F:\NTP\kare alma uygulamasi\kare alma uygulamasi\obj\Debug\kare alma uygulamasi.csproj.GenerateResource.Cache
