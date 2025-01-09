@@ -1,0 +1,10 @@
+C:\NTP\Hesap Makinasi\Hesap Makinasi\bin\Debug\Hesap Makinasi.exe.config
+C:\NTP\Hesap Makinasi\Hesap Makinasi\bin\Debug\Hesap Makinasi.exe
+C:\NTP\Hesap Makinasi\Hesap Makinasi\bin\Debug\Hesap Makinasi.pdb
+C:\NTP\Hesap Makinasi\Hesap Makinasi\obj\Debug\Hesap Makinasi.csproj.AssemblyReference.cache
+C:\NTP\Hesap Makinasi\Hesap Makinasi\obj\Debug\Hesap_Makinasi.Form1.resources
+C:\NTP\Hesap Makinasi\Hesap Makinasi\obj\Debug\Hesap_Makinasi.Properties.Resources.resources
+C:\NTP\Hesap Makinasi\Hesap Makinasi\obj\Debug\Hesap Makinasi.csproj.GenerateResource.cache
+C:\NTP\Hesap Makinasi\Hesap Makinasi\obj\Debug\Hesap Makinasi.csproj.CoreCompileInputs.cache
+C:\NTP\Hesap Makinasi\Hesap Makinasi\obj\Debug\Hesap Makinasi.exe
+C:\NTP\Hesap Makinasi\Hesap Makinasi\obj\Debug\Hesap Makinasi.pdb

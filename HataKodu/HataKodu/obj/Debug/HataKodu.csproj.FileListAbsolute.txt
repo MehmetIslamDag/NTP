@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Documents\mehmet\HataKodu\HataKodu\bin\Debug\HataKodu.exe.config
+C:\Users\Lab2-01\Documents\mehmet\HataKodu\HataKodu\bin\Debug\HataKodu.exe
+C:\Users\Lab2-01\Documents\mehmet\HataKodu\HataKodu\bin\Debug\HataKodu.pdb
+C:\Users\Lab2-01\Documents\mehmet\HataKodu\HataKodu\obj\Debug\HataKodu.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Documents\mehmet\HataKodu\HataKodu\obj\Debug\HataKodu.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\HataKodu\HataKodu\obj\Debug\HataKodu.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\HataKodu\HataKodu\obj\Debug\HataKodu.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\HataKodu\HataKodu\obj\Debug\HataKodu.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\HataKodu\HataKodu\obj\Debug\HataKodu.exe
+C:\Users\Lab2-01\Documents\mehmet\HataKodu\HataKodu\obj\Debug\HataKodu.pdb

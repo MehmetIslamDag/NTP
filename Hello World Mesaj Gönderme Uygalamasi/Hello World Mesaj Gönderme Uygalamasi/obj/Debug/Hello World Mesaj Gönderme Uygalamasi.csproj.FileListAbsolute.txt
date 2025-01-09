@@ -1,0 +1,10 @@
+C:\NTP\Hello World Mesaj Gönderme Uygalamasi\Hello World Mesaj Gönderme Uygalamasi\bin\Debug\Hello World Mesaj Gönderme Uygalamasi.exe.config
+C:\NTP\Hello World Mesaj Gönderme Uygalamasi\Hello World Mesaj Gönderme Uygalamasi\bin\Debug\Hello World Mesaj Gönderme Uygalamasi.exe
+C:\NTP\Hello World Mesaj Gönderme Uygalamasi\Hello World Mesaj Gönderme Uygalamasi\bin\Debug\Hello World Mesaj Gönderme Uygalamasi.pdb
+C:\NTP\Hello World Mesaj Gönderme Uygalamasi\Hello World Mesaj Gönderme Uygalamasi\obj\Debug\Hello World Mesaj Gönderme Uygalamasi.csproj.AssemblyReference.cache
+C:\NTP\Hello World Mesaj Gönderme Uygalamasi\Hello World Mesaj Gönderme Uygalamasi\obj\Debug\Hello_World_Mesaj_Gönderme_Uygalamasi.Form1.resources
+C:\NTP\Hello World Mesaj Gönderme Uygalamasi\Hello World Mesaj Gönderme Uygalamasi\obj\Debug\Hello_World_Mesaj_Gönderme_Uygalamasi.Properties.Resources.resources
+C:\NTP\Hello World Mesaj Gönderme Uygalamasi\Hello World Mesaj Gönderme Uygalamasi\obj\Debug\Hello World Mesaj Gönderme Uygalamasi.csproj.GenerateResource.cache
+C:\NTP\Hello World Mesaj Gönderme Uygalamasi\Hello World Mesaj Gönderme Uygalamasi\obj\Debug\Hello World Mesaj Gönderme Uygalamasi.csproj.CoreCompileInputs.cache
+C:\NTP\Hello World Mesaj Gönderme Uygalamasi\Hello World Mesaj Gönderme Uygalamasi\obj\Debug\Hello World Mesaj Gönderme Uygalamasi.exe
+C:\NTP\Hello World Mesaj Gönderme Uygalamasi\Hello World Mesaj Gönderme Uygalamasi\obj\Debug\Hello World Mesaj Gönderme Uygalamasi.pdb
