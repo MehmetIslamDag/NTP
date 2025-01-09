@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Documents\mehmet\for döngüsü örnek2\for döngüsü örnek2\bin\Debug\for döngüsü örnek2.exe.config
+C:\Users\Lab2-01\Documents\mehmet\for döngüsü örnek2\for döngüsü örnek2\bin\Debug\for döngüsü örnek2.exe
+C:\Users\Lab2-01\Documents\mehmet\for döngüsü örnek2\for döngüsü örnek2\bin\Debug\for döngüsü örnek2.pdb
+C:\Users\Lab2-01\Documents\mehmet\for döngüsü örnek2\for döngüsü örnek2\obj\Debug\for döngüsü örnek2.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Documents\mehmet\for döngüsü örnek2\for döngüsü örnek2\obj\Debug\for_döngüsü_örnek2.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\for döngüsü örnek2\for döngüsü örnek2\obj\Debug\for_döngüsü_örnek2.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\for döngüsü örnek2\for döngüsü örnek2\obj\Debug\for döngüsü örnek2.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\for döngüsü örnek2\for döngüsü örnek2\obj\Debug\for döngüsü örnek2.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\for döngüsü örnek2\for döngüsü örnek2\obj\Debug\for döngüsü örnek2.exe
+C:\Users\Lab2-01\Documents\mehmet\for döngüsü örnek2\for döngüsü örnek2\obj\Debug\for döngüsü örnek2.pdb

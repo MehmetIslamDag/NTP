@@ -1,0 +1,7 @@
+C:\Users\Lab2-01\Desktop\mehmet\GetSetUygulaması2\GetSetUygulaması2\bin\Debug\GetSetUygulaması2.exe.config
+C:\Users\Lab2-01\Desktop\mehmet\GetSetUygulaması2\GetSetUygulaması2\bin\Debug\GetSetUygulaması2.exe
+C:\Users\Lab2-01\Desktop\mehmet\GetSetUygulaması2\GetSetUygulaması2\bin\Debug\GetSetUygulaması2.pdb
+C:\Users\Lab2-01\Desktop\mehmet\GetSetUygulaması2\GetSetUygulaması2\obj\Debug\GetSetUygulaması2.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Desktop\mehmet\GetSetUygulaması2\GetSetUygulaması2\obj\Debug\GetSetUygulaması2.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Desktop\mehmet\GetSetUygulaması2\GetSetUygulaması2\obj\Debug\GetSetUygulaması2.exe
+C:\Users\Lab2-01\Desktop\mehmet\GetSetUygulaması2\GetSetUygulaması2\obj\Debug\GetSetUygulaması2.pdb
