@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Documents\mehmet\Hata Ayıklama Parola Uygulaması\Hata Ayıklama Parola Uygulaması\obj\Debug\Hata Ayıklama Parola Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Documents\mehmet\Hata Ayıklama Parola Uygulaması\Hata Ayıklama Parola Uygulaması\obj\Debug\Hata_Ayıklama_Parola_Uygulaması.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\Hata Ayıklama Parola Uygulaması\Hata Ayıklama Parola Uygulaması\obj\Debug\Hata_Ayıklama_Parola_Uygulaması.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\Hata Ayıklama Parola Uygulaması\Hata Ayıklama Parola Uygulaması\obj\Debug\Hata Ayıklama Parola Uygulaması.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\Hata Ayıklama Parola Uygulaması\Hata Ayıklama Parola Uygulaması\obj\Debug\Hata Ayıklama Parola Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\Hata Ayıklama Parola Uygulaması\Hata Ayıklama Parola Uygulaması\bin\Debug\Hata Ayıklama Parola Uygulaması.exe.config
+C:\Users\Lab2-01\Documents\mehmet\Hata Ayıklama Parola Uygulaması\Hata Ayıklama Parola Uygulaması\bin\Debug\Hata Ayıklama Parola Uygulaması.exe
+C:\Users\Lab2-01\Documents\mehmet\Hata Ayıklama Parola Uygulaması\Hata Ayıklama Parola Uygulaması\bin\Debug\Hata Ayıklama Parola Uygulaması.pdb
+C:\Users\Lab2-01\Documents\mehmet\Hata Ayıklama Parola Uygulaması\Hata Ayıklama Parola Uygulaması\obj\Debug\Hata Ayıklama Parola Uygulaması.exe
+C:\Users\Lab2-01\Documents\mehmet\Hata Ayıklama Parola Uygulaması\Hata Ayıklama Parola Uygulaması\obj\Debug\Hata Ayıklama Parola Uygulaması.pdb

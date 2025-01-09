@@ -1,0 +1,10 @@
+C:\Users\Lab2-01\Documents\mehmet\hataayıklama\hataayıklama\obj\Debug\hataayıklama.csproj.AssemblyReference.cache
+C:\Users\Lab2-01\Documents\mehmet\hataayıklama\hataayıklama\obj\Debug\hataayıklama.Form1.resources
+C:\Users\Lab2-01\Documents\mehmet\hataayıklama\hataayıklama\obj\Debug\hataayıklama.Properties.Resources.resources
+C:\Users\Lab2-01\Documents\mehmet\hataayıklama\hataayıklama\obj\Debug\hataayıklama.csproj.GenerateResource.cache
+C:\Users\Lab2-01\Documents\mehmet\hataayıklama\hataayıklama\obj\Debug\hataayıklama.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Documents\mehmet\hataayıklama\hataayıklama\bin\Debug\hataayıklama.exe.config
+C:\Users\Lab2-01\Documents\mehmet\hataayıklama\hataayıklama\bin\Debug\hataayıklama.exe
+C:\Users\Lab2-01\Documents\mehmet\hataayıklama\hataayıklama\bin\Debug\hataayıklama.pdb
+C:\Users\Lab2-01\Documents\mehmet\hataayıklama\hataayıklama\obj\Debug\hataayıklama.exe
+C:\Users\Lab2-01\Documents\mehmet\hataayıklama\hataayıklama\obj\Debug\hataayıklama.pdb

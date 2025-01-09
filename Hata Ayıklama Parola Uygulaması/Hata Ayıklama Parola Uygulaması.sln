@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hata Ayıklama Parola Uygulaması", "Hata Ayıklama Parola Uygulaması\Hata Ayıklama Parola Uygulaması.csproj", "{041453F6-317F-44AE-81EF-8EA417F37494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{041453F6-317F-44AE-81EF-8EA417F37494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041453F6-317F-44AE-81EF-8EA417F37494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041453F6-317F-44AE-81EF-8EA417F37494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041453F6-317F-44AE-81EF-8EA417F37494}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE0285DA-3345-4A1B-98F1-4D93E2BC808E}
+	EndGlobalSection
+EndGlobal

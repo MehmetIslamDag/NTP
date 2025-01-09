@@ -1,0 +1,7 @@
+C:\Users\Lab2-01\Desktop\mehmet\GetSetUygulaması3\GetSetUygulaması3\bin\Debug\GetSetUygulaması3.exe.config
+C:\Users\Lab2-01\Desktop\mehmet\GetSetUygulaması3\GetSetUygulaması3\bin\Debug\GetSetUygulaması3.exe
+C:\Users\Lab2-01\Desktop\mehmet\GetSetUygulaması3\GetSetUygulaması3\bin\Debug\GetSetUygulaması3.pdb
+C:\Users\Lab2-01\Desktop\mehmet\GetSetUygulaması3\GetSetUygulaması3\obj\Debug\GetSetUygulaması3.csproj.CoreCompileInputs.cache
+C:\Users\Lab2-01\Desktop\mehmet\GetSetUygulaması3\GetSetUygulaması3\obj\Debug\GetSetUygulaması3.exe
+C:\Users\Lab2-01\Desktop\mehmet\GetSetUygulaması3\GetSetUygulaması3\obj\Debug\GetSetUygulaması3.pdb
+C:\Users\Lab2-01\Desktop\mehmet\GetSetUygulaması3\GetSetUygulaması3\obj\Debug\GetSetUygulaması3.csproj.AssemblyReference.cache
